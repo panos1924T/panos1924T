@@ -28,9 +28,9 @@ Includes an Angular frontend with reactive forms and balance previews.
 
 ### Personal Finance API
 
-Personal backend application for managing accounts, categories, income, expenses, and transfers. Implements transactional balance updates, reversing previous effects before applying edits or soft deletion, alongside authentication and ownership checks.
+Personal finance application for managing accounts, categories, income, expenses, and transfers. Implements transactional balance updates, reversing previous effects before applying edits or soft deletion, alongside authentication and ownership checks.
 
-[Repository](https://github.com/panos1924T/personal-finance-application-backend)
+[Repository](https://github.com/panos1924T/personal-finance-application-backend) · [Frontend repository](https://github.com/panos1924T/personal-finance-application-frontend)
 
 ### Analyst Registry API
 
